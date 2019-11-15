@@ -1,2 +1,4 @@
-# hopebilling
-The free billing system hopebilling.com
+WipocBill - The free billing system for vestacp
+
+Install
+
